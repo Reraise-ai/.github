@@ -29,7 +29,7 @@ Get your number, bring in your first card, bring your field, or build with us he
 ## What exists today
 
 - The card format v2: specification and file format, in [Reraise-ai/reraise](https://github.com/Reraise-ai/reraise).
-- The tool (board app, API, MCP server): works on a developer machine with an example world; not released yet.
+- The tool (board app, API, MCP server): source in [Reraise-ai/reraise-app](https://github.com/Reraise-ai/reraise-app), works with an example world; no release or version tag yet.
 - A clickable board demo with example data: a gold market, a vitamin D claim, a Hormuz situation map.
 - A first exchange in beta, where every trading partner gets a running number.
 - The films: ninety seconds, and thirteen minutes in twenty chapters.
